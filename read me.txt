@@ -1,0 +1,7 @@
+my database name = "database"
+
+my collection name = "netflix"
+
+my CRN: 11812
+
+my 700#: 700721986
